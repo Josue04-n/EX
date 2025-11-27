@@ -1,1 +1,1 @@
-hola
+texto.includes("@")
